@@ -9,6 +9,7 @@
 // Version : 2.1.2
 // PHP Version : 5.6 or newer
 
+//aaa
 #############################
 
 $dbname="wordpress";
